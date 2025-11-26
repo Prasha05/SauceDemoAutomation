@@ -1,0 +1,878 @@
+2025-11-18 17:15:25 [TestNG-test-FirefoxTests-1] INFO  BaseTest:22 - ========== Starting Test Class: CartTests ==========
+2025-11-18 17:15:25 [TestNG-test-ChromeTests-3] INFO  BaseTest:22 - ========== Starting Test Class: LoginTests ==========
+2025-11-18 17:15:25 [TestNG-test-ChromeTests-2] INFO  BaseTest:22 - ========== Starting Test Class: CheckoutTests ==========
+2025-11-18 17:15:25 [TestNG-test-FirefoxTests-5] INFO  BaseTest:22 - ========== Starting Test Class: LogoutTest ==========
+2025-11-18 17:15:25 [TestNG-test-ChromeTests-5] INFO  BaseTest:22 - ========== Starting Test Class: LogoutTest ==========
+2025-11-18 17:15:25 [TestNG-test-FirefoxTests-3] INFO  BaseTest:22 - ========== Starting Test Class: LoginTests ==========
+2025-11-18 17:15:25 [TestNG-test-FirefoxTests-4] INFO  BaseTest:22 - ========== Starting Test Class: ProductTests ==========
+2025-11-18 17:15:25 [TestNG-test-FirefoxTests-2] INFO  BaseTest:22 - ========== Starting Test Class: CheckoutTests ==========
+2025-11-18 17:15:25 [TestNG-test-ChromeTests-4] INFO  BaseTest:22 - ========== Starting Test Class: ProductTests ==========
+2025-11-18 17:15:25 [TestNG-test-ChromeTests-1] INFO  BaseTest:22 - ========== Starting Test Class: CartTests ==========
+2025-11-18 17:15:25 [TestNG-test-ChromeTests-3] INFO  DriverManager:25 - Initializing WebDriver for browser: chrome
+2025-11-18 17:15:25 [TestNG-test-ChromeTests-1] INFO  DriverManager:25 - Initializing WebDriver for browser: chrome
+2025-11-18 17:15:25 [TestNG-test-FirefoxTests-1] INFO  DriverManager:25 - Initializing WebDriver for browser: firefox
+2025-11-18 17:15:25 [TestNG-test-ChromeTests-4] INFO  DriverManager:25 - Initializing WebDriver for browser: chrome
+2025-11-18 17:15:25 [TestNG-test-FirefoxTests-2] INFO  DriverManager:25 - Initializing WebDriver for browser: firefox
+2025-11-18 17:15:25 [TestNG-test-FirefoxTests-4] INFO  DriverManager:25 - Initializing WebDriver for browser: firefox
+2025-11-18 17:15:25 [TestNG-test-FirefoxTests-3] INFO  DriverManager:25 - Initializing WebDriver for browser: firefox
+2025-11-18 17:15:25 [TestNG-test-ChromeTests-5] INFO  DriverManager:25 - Initializing WebDriver for browser: chrome
+2025-11-18 17:15:25 [TestNG-test-FirefoxTests-5] INFO  DriverManager:25 - Initializing WebDriver for browser: firefox
+2025-11-18 17:15:25 [TestNG-test-ChromeTests-2] INFO  DriverManager:25 - Initializing WebDriver for browser: chrome
+2025-11-18 17:15:43 [TestNG-test-ChromeTests-5] INFO  DriverManager:32 - Chrome browser launched successfully in incognito mode.
+2025-11-18 17:15:43 [TestNG-test-ChromeTests-4] INFO  DriverManager:32 - Chrome browser launched successfully in incognito mode.
+2025-11-18 17:15:43 [TestNG-test-ChromeTests-1] INFO  DriverManager:32 - Chrome browser launched successfully in incognito mode.
+2025-11-18 17:15:43 [TestNG-test-ChromeTests-2] INFO  DriverManager:32 - Chrome browser launched successfully in incognito mode.
+2025-11-18 17:15:43 [TestNG-test-ChromeTests-2] INFO  DriverManager:51 - chrome window maximized successfully.
+2025-11-18 17:15:43 [TestNG-test-ChromeTests-1] INFO  DriverManager:51 - chrome window maximized successfully.
+2025-11-18 17:15:44 [TestNG-test-ChromeTests-3] INFO  DriverManager:32 - Chrome browser launched successfully in incognito mode.
+2025-11-18 17:15:45 [TestNG-test-ChromeTests-4] INFO  DriverManager:51 - chrome window maximized successfully.
+2025-11-18 17:15:46 [TestNG-test-ChromeTests-2] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:15:46 [TestNG-test-ChromeTests-1] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:15:46 [TestNG-test-ChromeTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:15:46 [TestNG-test-ChromeTests-5] INFO  DriverManager:51 - chrome window maximized successfully.
+2025-11-18 17:15:46 [TestNG-test-ChromeTests-5] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:15:47 [TestNG-test-ChromeTests-3] INFO  DriverManager:51 - chrome window maximized successfully.
+2025-11-18 17:15:47 [TestNG-test-ChromeTests-3] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:15:58 [TestNG-test-FirefoxTests-5] INFO  DriverManager:37 - Firefox browser launched successfully.
+2025-11-18 17:15:59 [TestNG-test-FirefoxTests-5] INFO  DriverManager:51 - firefox window maximized successfully.
+2025-11-18 17:15:59 [TestNG-test-FirefoxTests-5] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:04 [TestNG-test-FirefoxTests-4] INFO  DriverManager:37 - Firefox browser launched successfully.
+2025-11-18 17:16:06 [TestNG-test-FirefoxTests-4] INFO  DriverManager:51 - firefox window maximized successfully.
+2025-11-18 17:16:06 [TestNG-test-FirefoxTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:14 [TestNG-test-ChromeTests-3] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:14 [TestNG-test-ChromeTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:14 [TestNG-test-ChromeTests-3] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:14 [TestNG-test-ChromeTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:14 [TestNG-test-ChromeTests-5] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:14 [TestNG-test-ChromeTests-2] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:14 [TestNG-test-ChromeTests-2] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:14 [TestNG-test-ChromeTests-5] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:14 [TestNG-test-FirefoxTests-5] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:14 [TestNG-test-ChromeTests-1] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:14 [TestNG-test-FirefoxTests-5] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:14 [TestNG-test-ChromeTests-1] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:14 [TestNG-test-FirefoxTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:14 [TestNG-test-FirefoxTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:16 [TestNG-test-FirefoxTests-5] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:16 [TestNG-test-FirefoxTests-5] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:17 [TestNG-test-FirefoxTests-5] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:17 [TestNG-test-FirefoxTests-5] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:17 [TestNG-test-FirefoxTests-5] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:17 [TestNG-test-FirefoxTests-5] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:17 [TestNG-test-FirefoxTests-5] INFO  SideMenuPage:61 - Attempting to logout via side menu.
+2025-11-18 17:16:17 [TestNG-test-FirefoxTests-5] INFO  BasePage:38 - Clicked on element: By.id: react-burger-menu-btn
+2025-11-18 17:16:18 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:18 [TestNG-test-FirefoxTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:18 [TestNG-test-FirefoxTests-5] INFO  BasePage:38 - Clicked on element: By.id: logout_sidebar_link
+2025-11-18 17:16:18 [TestNG-test-FirefoxTests-5] INFO  SideMenuPage:64 - Logout completed successfully.
+2025-11-18 17:16:19 [TestNG-test-FirefoxTests-5] INFO  LoginPage:51 - Login button visible: true
+2025-11-18 17:16:19 [TestNG-test-FirefoxTests-5] INFO  AssertUtils:36 - [PASS] Login button is not visible
+2025-11-18 17:16:19 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:19 [TestNG-test-FirefoxTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:20 [TestNG-test-FirefoxTests-5] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:20 [TestNG-test-FirefoxTests-5] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:20 [TestNG-test-FirefoxTests-5] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:20 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:20 [TestNG-test-FirefoxTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:20 [TestNG-test-FirefoxTests-5] INFO  BaseTest:42 - Ending Test Class: LogoutTest
+2025-11-18 17:16:20 [TestNG-test-FirefoxTests-5] INFO  DriverManager:70 - Closing and quitting WebDriver instance...
+2025-11-18 17:16:21 [TestNG-test-ChromeTests-1] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:21 [TestNG-test-ChromeTests-1] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:21 [TestNG-test-ChromeTests-5] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:21 [TestNG-test-ChromeTests-5] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:21 [TestNG-test-ChromeTests-3] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:21 [TestNG-test-ChromeTests-3] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:21 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:21 [TestNG-test-ChromeTests-2] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:22 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:22 [TestNG-test-ChromeTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:23 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:31 - Products page title retrieved: Products
+2025-11-18 17:16:23 [TestNG-test-FirefoxTests-4] INFO  AssertUtils:16 - [PASS] Products page is not displayed. | Expected: Products | Actual: Products
+2025-11-18 17:16:23 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:42 - Total products displayed on page: 6
+2025-11-18 17:16:23 [TestNG-test-FirefoxTests-4] INFO  AssertUtils:36 - [PASS] No Products found on the Page.
+2025-11-18 17:16:24 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:56 - Fetched all product names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket, Sauce Labs Onesie, Test.allTheThings() T-Shirt (Red)]
+2025-11-18 17:16:24 [TestNG-test-FirefoxTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:24 [TestNG-test-FirefoxTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:25 [TestNG-test-FirefoxTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:25 [TestNG-test-FirefoxTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:25 [TestNG-test-ChromeTests-3] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:25 [TestNG-test-ChromeTests-3] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:25 [TestNG-test-ChromeTests-1] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:25 [TestNG-test-ChromeTests-1] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:25 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:25 [TestNG-test-ChromeTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:25 [TestNG-test-ChromeTests-5] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:25 [TestNG-test-ChromeTests-5] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:26 [TestNG-test-FirefoxTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:26 [TestNG-test-FirefoxTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:26 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:26 [TestNG-test-ChromeTests-2] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:26 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:26 [TestNG-test-FirefoxTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:27 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:27 [TestNG-test-FirefoxTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:28 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:28 [TestNG-test-FirefoxTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:28 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:28 [TestNG-test-ChromeTests-1] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:28 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:28 [TestNG-test-ChromeTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:28 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Backpack']]//button[text()='Add to cart']
+2025-11-18 17:16:28 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:68 - Added product 'Sauce Labs Backpack' to cart successfully.
+2025-11-18 17:16:29 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:29 [TestNG-test-ChromeTests-2] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:29 [TestNG-test-ChromeTests-5] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:29 [TestNG-test-ChromeTests-5] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:29 [TestNG-test-ChromeTests-5] INFO  SideMenuPage:61 - Attempting to logout via side menu.
+2025-11-18 17:16:29 [TestNG-test-ChromeTests-3] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:29 [TestNG-test-ChromeTests-3] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:30 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Backpack']]//button[text()='Add to cart']
+2025-11-18 17:16:30 [TestNG-test-ChromeTests-1] INFO  ProductsPage:68 - Added product 'Sauce Labs Backpack' to cart successfully.
+2025-11-18 17:16:30 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:102 - Cart item count: 1
+2025-11-18 17:16:31 [TestNG-test-FirefoxTests-4] INFO  AssertUtils:26 - [PASS] Cart count is not updated correctly after adding a product. | Expected: 1 | Actual: 1
+2025-11-18 17:16:31 [TestNG-test-FirefoxTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:31 [TestNG-test-FirefoxTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-3] INFO  ProductsPage:31 - Products page title retrieved: Products
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-3] INFO  AssertUtils:16 - [PASS] Products page is not displayed. | Expected: Products | Actual: Products
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-1] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:16:31 [TestNG-test-FirefoxTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:31 [TestNG-test-FirefoxTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-2] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-4] INFO  ProductsPage:31 - Products page title retrieved: Products
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-4] INFO  AssertUtils:16 - [PASS] Products page is not displayed. | Expected: Products | Actual: Products
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-3] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-3] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-2] INFO  CartPage:80 - Navigating to Cart and clicking Checkout button...
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-1] INFO  CartPage:46 - Navigating to Cart and verifying selected products...
+2025-11-18 17:16:31 [TestNG-test-FirefoxTests-2] INFO  DriverManager:37 - Firefox browser launched successfully.
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-5] INFO  BasePage:38 - Clicked on element: By.id: react-burger-menu-btn
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-4] INFO  ProductsPage:42 - Total products displayed on page: 6
+2025-11-18 17:16:31 [TestNG-test-ChromeTests-4] INFO  AssertUtils:36 - [PASS] No Products found on the Page.
+2025-11-18 17:16:32 [TestNG-test-FirefoxTests-2] INFO  DriverManager:51 - firefox window maximized successfully.
+2025-11-18 17:16:32 [TestNG-test-FirefoxTests-2] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:32 [TestNG-test-ChromeTests-3] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:32 [TestNG-test-ChromeTests-3] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:33 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:16:33 [TestNG-test-FirefoxTests-1] INFO  DriverManager:37 - Firefox browser launched successfully.
+2025-11-18 17:16:33 [TestNG-test-FirefoxTests-1] INFO  DriverManager:51 - firefox window maximized successfully.
+2025-11-18 17:16:33 [TestNG-test-FirefoxTests-1] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:34 [TestNG-test-ChromeTests-1] INFO  AssertUtils:36 - [PASS] Cart does not contain expected product: Sauce Labs Backpack
+2025-11-18 17:16:34 [TestNG-test-ChromeTests-1] INFO  CartPage:57 - Verified product present in cart: Sauce Labs Backpack
+2025-11-18 17:16:34 [TestNG-test-ChromeTests-1] INFO  AssertUtils:36 - [PASS] Cart does not contain expected product: Sauce Labs Bike Light
+2025-11-18 17:16:34 [TestNG-test-ChromeTests-1] INFO  CartPage:57 - Verified product present in cart: Sauce Labs Bike Light
+2025-11-18 17:16:34 [TestNG-test-FirefoxTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:34 [TestNG-test-FirefoxTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:34 [TestNG-test-ChromeTests-1] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:34 [TestNG-test-ChromeTests-1] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:34 [TestNG-test-ChromeTests-4] INFO  ProductsPage:56 - Fetched all product names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket, Sauce Labs Onesie, Test.allTheThings() T-Shirt (Red)]
+2025-11-18 17:16:34 [TestNG-test-ChromeTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:34 [TestNG-test-ChromeTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:34 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-1] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-1] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-1] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-1] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-3] INFO  LoginPage:61 - Attempting login with username: invalid_user
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-3] INFO  LoginPage:20 - Entering username: invalid_user
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-5] INFO  BasePage:38 - Clicked on element: By.id: logout_sidebar_link
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-5] INFO  SideMenuPage:64 - Logout completed successfully.
+2025-11-18 17:16:35 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:35 [TestNG-test-FirefoxTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-5] INFO  LoginPage:51 - Login button visible: true
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-5] INFO  AssertUtils:36 - [PASS] Login button is not visible
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-5] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:35 [TestNG-test-ChromeTests-5] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-1] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-1] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-5] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-5] INFO  BaseTest:42 - Ending Test Class: LogoutTest
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-5] INFO  DriverManager:70 - Closing and quitting WebDriver instance...
+2025-11-18 17:16:36 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:36 [TestNG-test-FirefoxTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: checkout
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-2] INFO  CartPage:83 - Clicked Checkout button successfully.
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-2] INFO  CheckoutPage:25 - Entering personal information: John, Doe, 12345
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-1] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:36 [TestNG-test-ChromeTests-1] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:37 [TestNG-test-ChromeTests-3] INFO  BasePage:51 - Entered text 'invalid_user' into element: By.id: user-name
+2025-11-18 17:16:37 [TestNG-test-ChromeTests-3] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:37 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:37 [TestNG-test-FirefoxTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:37 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bolt T-Shirt']]//button[text()='Add to cart']
+2025-11-18 17:16:37 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:68 - Added product 'Sauce Labs Bolt T-Shirt' to cart successfully.
+2025-11-18 17:16:37 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:37 [TestNG-test-ChromeTests-1] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:37 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:16:37 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:16:37 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:37 [TestNG-test-ChromeTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:38 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Fleece Jacket']]//button[text()='Add to cart']
+2025-11-18 17:16:38 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:68 - Added product 'Sauce Labs Fleece Jacket' to cart successfully.
+2025-11-18 17:16:38 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'John' into element: By.id: first-name
+2025-11-18 17:16:38 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:16:38 [TestNG-test-ChromeTests-1] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:16:38 [TestNG-test-ChromeTests-1] INFO  CartPage:67 - Navigating to Cart to remove product: Sauce Labs Bike Light
+2025-11-18 17:16:39 [TestNG-test-ChromeTests-3] INFO  BasePage:51 - Entered text 'wrong_pass' into element: By.id: password
+2025-11-18 17:16:39 [TestNG-test-ChromeTests-3] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:40 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:40 [TestNG-test-ChromeTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:40 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'Doe' into element: By.id: last-name
+2025-11-18 17:16:40 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:16:42 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:102 - Cart item count: 3
+2025-11-18 17:16:42 [TestNG-test-FirefoxTests-4] INFO  AssertUtils:26 - [PASS] Cart count is not updated correctly after adding a product. | Expected: 3 | Actual: 3
+2025-11-18 17:16:42 [TestNG-test-FirefoxTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:42 [TestNG-test-FirefoxTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:42 [TestNG-test-FirefoxTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:42 [TestNG-test-FirefoxTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:42 [TestNG-test-ChromeTests-3] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:42 [TestNG-test-ChromeTests-3] INFO  LoginPage:65 - Login attempted for user: invalid_user
+2025-11-18 17:16:43 [TestNG-test-ChromeTests-3] WARN  LoginPage:75 - Login error displayed: Epic sadface: Username and password do not match any user in this service
+2025-11-18 17:16:43 [TestNG-test-ChromeTests-3] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Epic sadface: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
+2025-11-18 17:16:43 [TestNG-test-ChromeTests-3] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:43 [TestNG-test-ChromeTests-3] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:43 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='cart_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Remove']
+2025-11-18 17:16:43 [TestNG-test-ChromeTests-1] INFO  CartPage:71 - Product removed successfully: Sauce Labs Bike Light
+2025-11-18 17:16:43 [TestNG-test-ChromeTests-3] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:43 [TestNG-test-ChromeTests-3] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:44 [TestNG-test-FirefoxTests-2] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:44 [TestNG-test-ChromeTests-3] INFO  LoginPage:61 - Attempting login with username: 
+2025-11-18 17:16:44 [TestNG-test-FirefoxTests-2] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:44 [TestNG-test-ChromeTests-3] INFO  LoginPage:20 - Entering username: 
+2025-11-18 17:16:44 [TestNG-test-FirefoxTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:44 [TestNG-test-FirefoxTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:44 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:44 [TestNG-test-ChromeTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:45 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text '12345' into element: By.id: postal-code
+2025-11-18 17:16:45 [TestNG-test-FirefoxTests-1] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:45 [TestNG-test-FirefoxTests-1] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:45 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:45 [TestNG-test-FirefoxTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:45 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:45 [TestNG-test-FirefoxTests-2] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:46 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:46 [TestNG-test-FirefoxTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:46 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:46 [TestNG-test-FirefoxTests-2] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:47 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:47 [TestNG-test-FirefoxTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:47 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Backpack']]//button[text()='Add to cart']
+2025-11-18 17:16:47 [TestNG-test-ChromeTests-4] INFO  ProductsPage:68 - Added product 'Sauce Labs Backpack' to cart successfully.
+2025-11-18 17:16:47 [TestNG-test-ChromeTests-3] INFO  BasePage:51 - Entered text '' into element: By.id: user-name
+2025-11-18 17:16:47 [TestNG-test-ChromeTests-3] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:47 [TestNG-test-FirefoxTests-1] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:47 [TestNG-test-FirefoxTests-1] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:47 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Backpack']]//button[text()='Add to cart']
+2025-11-18 17:16:47 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:68 - Added product 'Sauce Labs Backpack' to cart successfully.
+2025-11-18 17:16:47 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: continue
+2025-11-18 17:16:47 [TestNG-test-ChromeTests-2] INFO  CheckoutPage:30 - Clicked Continue button on Checkout Page successfully.
+2025-11-18 17:16:47 [TestNG-test-ChromeTests-2] INFO  CheckoutOverviewPage:21 - Fetching Checkout Overview page title...
+2025-11-18 17:16:47 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Backpack']]//button[text()='Remove']
+2025-11-18 17:16:47 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:79 - Removed product 'Sauce Labs Backpack' from cart successfully.
+2025-11-18 17:16:47 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:47 [TestNG-test-FirefoxTests-2] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-2] INFO  CheckoutOverviewPage:23 - Checkout Overview Page Title: Checkout: Overview
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-2] INFO  AssertUtils:16 - [PASS] Page title mismatch. | Expected: Checkout: Overview | Actual: Checkout: Overview
+2025-11-18 17:16:48 [TestNG-test-FirefoxTests-1] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:48 [TestNG-test-FirefoxTests-1] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-2] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-2] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-4] INFO  ProductsPage:102 - Cart item count: 1
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-4] INFO  AssertUtils:26 - [PASS] Cart count is not updated correctly after adding a product. | Expected: 1 | Actual: 1
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:48 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:16:48 [TestNG-test-FirefoxTests-2] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:16:48 [TestNG-test-FirefoxTests-2] INFO  CartPage:80 - Navigating to Cart and clicking Checkout button...
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-2] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-2] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:48 [TestNG-test-ChromeTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:49 [TestNG-test-ChromeTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:49 [TestNG-test-ChromeTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:49 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:49 [TestNG-test-FirefoxTests-1] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:49 [TestNG-test-ChromeTests-2] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:49 [TestNG-test-ChromeTests-2] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:49 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:16:49 [TestNG-test-ChromeTests-3] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:49 [TestNG-test-ChromeTests-3] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:50 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Backpack']]//button[text()='Add to cart']
+2025-11-18 17:16:50 [TestNG-test-FirefoxTests-1] INFO  ProductsPage:68 - Added product 'Sauce Labs Backpack' to cart successfully.
+2025-11-18 17:16:50 [TestNG-test-FirefoxTests-3] INFO  DriverManager:37 - Firefox browser launched successfully.
+2025-11-18 17:16:50 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:16:50 [TestNG-test-FirefoxTests-1] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:16:50 [TestNG-test-FirefoxTests-1] INFO  CartPage:46 - Navigating to Cart and verifying selected products...
+2025-11-18 17:16:50 [TestNG-test-FirefoxTests-3] INFO  DriverManager:51 - firefox window maximized successfully.
+2025-11-18 17:16:50 [TestNG-test-FirefoxTests-3] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: checkout
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-2] INFO  CartPage:83 - Clicked Checkout button successfully.
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-2] INFO  CheckoutPage:25 - Entering personal information: John, Doe, 12345
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-5] INFO  DriverManager:73 - WebDriver closed and removed successfully.
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-5] INFO  BaseTest:44 - ==============================================================
+2025-11-18 17:16:51 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:51 [TestNG-test-ChromeTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-1] INFO  AssertUtils:36 - [PASS] Cart does not contain expected product: Sauce Labs Backpack
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-1] INFO  CartPage:57 - Verified product present in cart: Sauce Labs Backpack
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-1] INFO  AssertUtils:36 - [PASS] Cart does not contain expected product: Sauce Labs Bike Light
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-1] INFO  CartPage:57 - Verified product present in cart: Sauce Labs Bike Light
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'John' into element: By.id: first-name
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-1] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:51 [TestNG-test-FirefoxTests-1] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:52 [TestNG-test-ChromeTests-3] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:52 [TestNG-test-ChromeTests-3] INFO  LoginPage:65 - Login attempted for user: 
+2025-11-18 17:16:52 [TestNG-test-FirefoxTests-1] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:52 [TestNG-test-FirefoxTests-1] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:52 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:52 [TestNG-test-ChromeTests-2] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:52 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'Doe' into element: By.id: last-name
+2025-11-18 17:16:52 [TestNG-test-ChromeTests-3] WARN  LoginPage:75 - Login error displayed: Epic sadface: Username is required
+2025-11-18 17:16:52 [TestNG-test-ChromeTests-3] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Epic sadface: Username is required | Actual: Epic sadface: Username is required
+2025-11-18 17:16:52 [TestNG-test-ChromeTests-3] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:52 [TestNG-test-ChromeTests-3] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-1] WARN  BasePage:90 - Element not displayed or not found: By.xpath: //span[@class='shopping_cart_badge']
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-1] INFO  CartPage:110 - Cart badge not visible — assuming cart is empty.
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-1] INFO  AssertUtils:26 - [PASS] Cart count is not updated correctly after removing a product. | Expected: 0 | Actual: 0
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-1] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-1] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-3] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-3] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-3] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-3] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-1] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:53 [TestNG-test-ChromeTests-1] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:54 [TestNG-test-ChromeTests-1] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:54 [TestNG-test-ChromeTests-1] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:54 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text '12345' into element: By.id: postal-code
+2025-11-18 17:16:54 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:54 [TestNG-test-ChromeTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:54 [TestNG-test-FirefoxTests-1] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:16:54 [TestNG-test-FirefoxTests-1] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:16:54 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:54 [TestNG-test-ChromeTests-2] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:55 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: continue
+2025-11-18 17:16:55 [TestNG-test-FirefoxTests-2] INFO  CheckoutPage:30 - Clicked Continue button on Checkout Page successfully.
+2025-11-18 17:16:55 [TestNG-test-FirefoxTests-2] INFO  CheckoutOverviewPage:21 - Fetching Checkout Overview page title...
+2025-11-18 17:16:55 [TestNG-test-ChromeTests-1] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:55 [TestNG-test-ChromeTests-1] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:56 [TestNG-test-FirefoxTests-1] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:56 [TestNG-test-FirefoxTests-1] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:57 [TestNG-test-FirefoxTests-2] INFO  CheckoutOverviewPage:23 - Checkout Overview Page Title: Checkout: Overview
+2025-11-18 17:16:57 [TestNG-test-FirefoxTests-2] INFO  AssertUtils:16 - [PASS] Page title mismatch. | Expected: Checkout: Overview | Actual: Checkout: Overview
+2025-11-18 17:16:57 [TestNG-test-FirefoxTests-2] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:57 [TestNG-test-FirefoxTests-2] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:57 [TestNG-test-ChromeTests-1] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:57 [TestNG-test-ChromeTests-1] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:57 [TestNG-test-FirefoxTests-2] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:57 [TestNG-test-FirefoxTests-2] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:58 [TestNG-test-FirefoxTests-4] WARN  BasePage:90 - Element not displayed or not found: By.xpath: //span[@class='shopping_cart_badge']
+2025-11-18 17:16:58 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:105 - Cart badge not displayed. Assuming count is 0.
+2025-11-18 17:16:58 [TestNG-test-FirefoxTests-4] INFO  AssertUtils:26 - [PASS] Cart count is not updated correctly after removing a product. | Expected: 0 | Actual: 0
+2025-11-18 17:16:58 [TestNG-test-FirefoxTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:16:58 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:58 [TestNG-test-ChromeTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:58 [TestNG-test-FirefoxTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:16:58 [TestNG-test-ChromeTests-3] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:16:58 [TestNG-test-ChromeTests-3] INFO  LoginPage:30 - Entering password
+2025-11-18 17:16:58 [TestNG-test-FirefoxTests-1] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:16:58 [TestNG-test-FirefoxTests-1] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:16:58 [TestNG-test-FirefoxTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:16:58 [TestNG-test-FirefoxTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:16:58 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:58 [TestNG-test-ChromeTests-2] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:58 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:58 [TestNG-test-ChromeTests-1] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:16:58 [TestNG-test-ChromeTests-1] INFO  CartPage:92 - Navigating to Cart and clicking Continue Shopping...
+2025-11-18 17:16:59 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:16:59 [TestNG-test-FirefoxTests-1] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:00 [TestNG-test-FirefoxTests-3] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:00 [TestNG-test-FirefoxTests-3] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:00 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:17:00 [TestNG-test-FirefoxTests-1] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:17:00 [TestNG-test-FirefoxTests-1] INFO  CartPage:67 - Navigating to Cart to remove product: Sauce Labs Bike Light
+2025-11-18 17:17:00 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:01 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:01 [TestNG-test-FirefoxTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:02 [TestNG-test-FirefoxTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bolt T-Shirt']]//button[text()='Add to cart']
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-4] INFO  ProductsPage:68 - Added product 'Sauce Labs Bolt T-Shirt' to cart successfully.
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-1] INFO  BasePage:38 - Clicked on element: By.id: continue-shopping
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-1] INFO  CartPage:95 - Clicked Continue Shopping button successfully.
+2025-11-18 17:17:02 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='cart_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Remove']
+2025-11-18 17:17:02 [TestNG-test-FirefoxTests-1] INFO  CartPage:71 - Product removed successfully: Sauce Labs Bike Light
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-2] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-2] INFO  CartPage:80 - Navigating to Cart and clicking Checkout button...
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-3] INFO  BasePage:51 - Entered text '' into element: By.id: password
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-3] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-1] INFO  ProductsPage:31 - Products page title retrieved: Products
+2025-11-18 17:17:02 [TestNG-test-ChromeTests-1] INFO  AssertUtils:16 - [PASS] Products page is not displayed. | Expected: Products | Actual: Products
+2025-11-18 17:17:03 [TestNG-test-ChromeTests-1] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:03 [TestNG-test-ChromeTests-1] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:03 [TestNG-test-FirefoxTests-3] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:03 [TestNG-test-FirefoxTests-3] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:03 [TestNG-test-ChromeTests-1] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:03 [TestNG-test-ChromeTests-1] INFO  BaseTest:42 - Ending Test Class: CartTests
+2025-11-18 17:17:03 [TestNG-test-ChromeTests-1] INFO  DriverManager:70 - Closing and quitting WebDriver instance...
+2025-11-18 17:17:03 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:03 [TestNG-test-FirefoxTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:03 [TestNG-test-FirefoxTests-2] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:03 [TestNG-test-FirefoxTests-2] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:04 [TestNG-test-FirefoxTests-3] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:04 [TestNG-test-FirefoxTests-3] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:05 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:05 [TestNG-test-FirefoxTests-2] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:05 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:05 [TestNG-test-FirefoxTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:05 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:17:05 [TestNG-test-ChromeTests-4] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:17:06 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:06 [TestNG-test-ChromeTests-3] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:06 [TestNG-test-ChromeTests-3] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:06 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:06 [TestNG-test-FirefoxTests-2] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:06 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:06 [TestNG-test-FirefoxTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:07 [TestNG-test-FirefoxTests-3] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:07 [TestNG-test-FirefoxTests-3] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:07 [TestNG-test-ChromeTests-3] WARN  LoginPage:75 - Login error displayed: Epic sadface: Password is required
+2025-11-18 17:17:07 [TestNG-test-ChromeTests-3] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Epic sadface: Password is required | Actual: Epic sadface: Password is required
+2025-11-18 17:17:07 [TestNG-test-ChromeTests-3] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:07 [TestNG-test-ChromeTests-3] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:07 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:07 [TestNG-test-FirefoxTests-2] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:07 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item_name ' and text()='Sauce Labs Onesie']
+2025-11-18 17:17:07 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:90 - Opened product details page for 'Sauce Labs Onesie'.
+2025-11-18 17:17:07 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:17:07 [TestNG-test-FirefoxTests-2] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:17:07 [TestNG-test-FirefoxTests-2] INFO  CartPage:80 - Navigating to Cart and clicking Checkout button...
+2025-11-18 17:17:07 [TestNG-test-ChromeTests-3] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:07 [TestNG-test-ChromeTests-3] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:07 [TestNG-test-FirefoxTests-4] INFO  ProductDetailPage:90 - Verifying product details for: Sauce Labs Onesie
+2025-11-18 17:17:08 [TestNG-test-ChromeTests-3] INFO  LoginPage:61 - Attempting login with username: 
+2025-11-18 17:17:08 [TestNG-test-ChromeTests-3] INFO  LoginPage:20 - Entering username: 
+2025-11-18 17:17:08 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Fleece Jacket']]//button[text()='Add to cart']
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-4] INFO  ProductDetailPage:25 - Product name retrieved: Sauce Labs Onesie
+2025-11-18 17:17:08 [TestNG-test-ChromeTests-4] INFO  ProductsPage:68 - Added product 'Sauce Labs Fleece Jacket' to cart successfully.
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-3] INFO  ProductsPage:31 - Products page title retrieved: Products
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-3] INFO  AssertUtils:16 - [PASS] Products page is not displayed. | Expected: Products | Actual: Products
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-3] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-3] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-3] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-3] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-4] INFO  ProductDetailPage:36 - Product description retrieved: Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-4] INFO  ProductDetailPage:47 - Product price retrieved: $7.99
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-4] INFO  AssertUtils:16 - [PASS] Product Name does not match | Expected: Sauce Labs Onesie | Actual: Sauce Labs Onesie
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-4] INFO  AssertUtils:36 - [PASS] Price format is invalid: $7.99
+2025-11-18 17:17:08 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: checkout
+2025-11-18 17:17:08 [TestNG-test-ChromeTests-2] INFO  CartPage:83 - Clicked Checkout button successfully.
+2025-11-18 17:17:08 [TestNG-test-ChromeTests-2] INFO  CheckoutPage:25 - Entering personal information: , Doe, 12345
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: checkout
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-2] INFO  CartPage:83 - Clicked Checkout button successfully.
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-2] INFO  CheckoutPage:25 - Entering personal information: , Doe, 12345
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text '' into element: By.id: first-name
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-4] INFO  ProductDetailPage:58 - 'Add to Cart' button visible: true
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'Doe' into element: By.id: last-name
+2025-11-18 17:17:08 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text '12345' into element: By.id: postal-code
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: continue
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  CheckoutPage:30 - Clicked Continue button on Checkout Page successfully.
+2025-11-18 17:17:09 [TestNG-test-ChromeTests-4] INFO  ProductsPage:102 - Cart item count: 3
+2025-11-18 17:17:09 [TestNG-test-ChromeTests-4] INFO  AssertUtils:26 - [PASS] Cart count is not updated correctly after adding a product. | Expected: 3 | Actual: 3
+2025-11-18 17:17:09 [TestNG-test-ChromeTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:09 [TestNG-test-ChromeTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] WARN  CheckoutPage:41 - Checkout error message displayed: Error: First Name is required
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Error: First Name is required | Actual: Error: First Name is required
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:09 [TestNG-test-ChromeTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:09 [TestNG-test-ChromeTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:17:09 [TestNG-test-FirefoxTests-2] INFO  CartPage:80 - Navigating to Cart and clicking Checkout button...
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: checkout
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  CartPage:83 - Clicked Checkout button successfully.
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  CheckoutPage:25 - Entering personal information: John, Doe, 
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'John' into element: By.id: first-name
+2025-11-18 17:17:10 [TestNG-test-ChromeTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:10 [TestNG-test-ChromeTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'Doe' into element: By.id: last-name
+2025-11-18 17:17:10 [TestNG-test-ChromeTests-3] INFO  BasePage:51 - Entered text '' into element: By.id: user-name
+2025-11-18 17:17:10 [TestNG-test-ChromeTests-3] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text '' into element: By.id: postal-code
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: continue
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  CheckoutPage:30 - Clicked Continue button on Checkout Page successfully.
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] WARN  CheckoutPage:41 - Checkout error message displayed: Error: Postal Code is required
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Error: Postal Code is required | Actual: Error: Postal Code is required
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-2] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-3] INFO  LoginPage:61 - Attempting login with username: invalid_user
+2025-11-18 17:17:10 [TestNG-test-FirefoxTests-3] INFO  LoginPage:20 - Entering username: invalid_user
+2025-11-18 17:17:10 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text '' into element: By.id: first-name
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-3] INFO  BasePage:51 - Entered text 'invalid_user' into element: By.id: user-name
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-3] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  CartPage:80 - Navigating to Cart and clicking Checkout button...
+2025-11-18 17:17:11 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: checkout
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  CartPage:83 - Clicked Checkout button successfully.
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  CheckoutPage:55 - Clicking Cancel button on Checkout Page...
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: cancel
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  CheckoutPage:57 - Clicked Cancel button successfully.
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  CartPage:34 - Fetching Cart Page title...
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  CartPage:36 - Cart Page Title: Your Cart
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  AssertUtils:16 - [PASS] Page title mismatch. | Expected: Your Cart | Actual: Your Cart
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-3] INFO  BasePage:51 - Entered text 'wrong_pass' into element: By.id: password
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-3] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:12 [TestNG-test-ChromeTests-3] INFO  BasePage:51 - Entered text '' into element: By.id: password
+2025-11-18 17:17:12 [TestNG-test-ChromeTests-3] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:12 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:12 [TestNG-test-ChromeTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-1] WARN  BasePage:90 - Element not displayed or not found: By.xpath: //span[@class='shopping_cart_badge']
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-1] INFO  CartPage:110 - Cart badge not visible — assuming cart is empty.
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-1] INFO  AssertUtils:26 - [PASS] Cart count is not updated correctly after removing a product. | Expected: 0 | Actual: 0
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-1] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-1] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:12 [TestNG-test-FirefoxTests-2] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-1] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-1] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:13 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'Doe' into element: By.id: last-name
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Test.allTheThings() T-Shirt (Red)']]//button[text()='Add to cart']
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  ProductsPage:68 - Added product 'Test.allTheThings() T-Shirt (Red)' to cart successfully.
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  CartPage:80 - Navigating to Cart and clicking Checkout button...
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-3] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-3] INFO  LoginPage:65 - Login attempted for user: invalid_user
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: checkout
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  CartPage:83 - Clicked Checkout button successfully.
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  CheckoutPage:25 - Entering personal information: Divya, Divine, 10453
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'Divya' into element: By.id: first-name
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text 'Divine' into element: By.id: last-name
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  BasePage:51 - Entered text '10453' into element: By.id: postal-code
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-3] WARN  LoginPage:75 - Login error displayed: Epic sadface: Username and password do not match any user in this service
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-3] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Epic sadface: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: continue
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  CheckoutPage:30 - Clicked Continue button on Checkout Page successfully.
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-2] INFO  CheckoutOverviewPage:33 - Clicking Finish button on Checkout Overview page...
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-3] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-3] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-3] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:13 [TestNG-test-FirefoxTests-3] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:14 [TestNG-test-FirefoxTests-2] INFO  BasePage:38 - Clicked on element: By.id: finish
+2025-11-18 17:17:14 [TestNG-test-FirefoxTests-2] INFO  CheckoutOverviewPage:35 - Clicked Finish button successfully.
+2025-11-18 17:17:14 [TestNG-test-FirefoxTests-2] INFO  ConfirmationPage:15 - Fetching order confirmation message...
+2025-11-18 17:17:14 [TestNG-test-FirefoxTests-2] INFO  ConfirmationPage:17 - Order confirmation message retrieved successfully: Thank you for your order!
+2025-11-18 17:17:14 [TestNG-test-FirefoxTests-2] INFO  AssertUtils:16 - [PASS] Order Confirmation Message not found. | Expected: Thank you for your order! | Actual: Thank you for your order!
+2025-11-18 17:17:14 [TestNG-test-FirefoxTests-2] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:14 [TestNG-test-FirefoxTests-2] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:14 [TestNG-test-FirefoxTests-2] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:14 [TestNG-test-FirefoxTests-2] INFO  BaseTest:42 - Ending Test Class: CheckoutTests
+2025-11-18 17:17:14 [TestNG-test-FirefoxTests-2] INFO  DriverManager:70 - Closing and quitting WebDriver instance...
+2025-11-18 17:17:15 [TestNG-test-ChromeTests-3] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:15 [TestNG-test-ChromeTests-3] INFO  LoginPage:65 - Login attempted for user: 
+2025-11-18 17:17:15 [TestNG-test-FirefoxTests-1] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:15 [TestNG-test-FirefoxTests-1] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:15 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:15 [TestNG-test-ChromeTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:15 [TestNG-test-FirefoxTests-3] INFO  LoginPage:61 - Attempting login with username: 
+2025-11-18 17:17:15 [TestNG-test-FirefoxTests-3] INFO  LoginPage:20 - Entering username: 
+2025-11-18 17:17:15 [TestNG-test-ChromeTests-3] WARN  LoginPage:75 - Login error displayed: Epic sadface: Username is required
+2025-11-18 17:17:15 [TestNG-test-ChromeTests-3] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Epic sadface: Username is required | Actual: Epic sadface: Username is required
+2025-11-18 17:17:15 [TestNG-test-ChromeTests-3] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:15 [TestNG-test-ChromeTests-3] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text '12345' into element: By.id: postal-code
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-3] INFO  BasePage:51 - Entered text '' into element: By.id: user-name
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-3] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-3] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-3] INFO  BaseTest:42 - Ending Test Class: LoginTests
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-3] INFO  DriverManager:70 - Closing and quitting WebDriver instance...
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-3] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-3] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  CartPage:92 - Navigating to Cart and clicking Continue Shopping...
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: continue
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] INFO  CheckoutPage:30 - Clicked Continue button on Checkout Page successfully.
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Backpack']]//button[text()='Add to cart']
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-4] INFO  ProductsPage:68 - Added product 'Sauce Labs Backpack' to cart successfully.
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] WARN  CheckoutPage:41 - Checkout error message displayed: Error: First Name is required
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Error: First Name is required | Actual: Error: First Name is required
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  BasePage:38 - Clicked on element: By.id: continue-shopping
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  CartPage:95 - Clicked Continue Shopping button successfully.
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  ProductsPage:31 - Products page title retrieved: Products
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  AssertUtils:16 - [PASS] Products page is not displayed. | Expected: Products | Actual: Products
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  BaseTest:42 - Ending Test Class: CartTests
+2025-11-18 17:17:16 [TestNG-test-FirefoxTests-1] INFO  DriverManager:70 - Closing and quitting WebDriver instance...
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:16 [TestNG-test-ChromeTests-2] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:17 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Backpack']]//button[text()='Remove']
+2025-11-18 17:17:17 [TestNG-test-ChromeTests-4] INFO  ProductsPage:79 - Removed product 'Sauce Labs Backpack' from cart successfully.
+2025-11-18 17:17:17 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:17 [TestNG-test-ChromeTests-2] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:17 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:17 [TestNG-test-ChromeTests-2] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:17 [TestNG-test-FirefoxTests-3] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:17 [TestNG-test-FirefoxTests-3] INFO  LoginPage:65 - Login attempted for user: 
+2025-11-18 17:17:18 [TestNG-test-ChromeTests-5] INFO  DriverManager:73 - WebDriver closed and removed successfully.
+2025-11-18 17:17:18 [TestNG-test-ChromeTests-5] INFO  BaseTest:44 - ==============================================================
+2025-11-18 17:17:18 [TestNG-test-FirefoxTests-3] WARN  LoginPage:75 - Login error displayed: Epic sadface: Username is required
+2025-11-18 17:17:18 [TestNG-test-FirefoxTests-3] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Epic sadface: Username is required | Actual: Epic sadface: Username is required
+2025-11-18 17:17:18 [TestNG-test-FirefoxTests-3] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:18 [TestNG-test-FirefoxTests-3] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:19 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:19 [TestNG-test-ChromeTests-2] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-3] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-3] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-4] WARN  BasePage:90 - Element not displayed or not found: By.xpath: //button[text()='Remove']
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-4] INFO  ProductDetailPage:69 - 'Remove' button visible: false
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-4] INFO  AssertUtils:36 - [PASS] Neither Add to Cart nor Remove button is displayed
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-4] INFO  ProductDetailPage:80 - 'Back to Products' button visible: true
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-4] INFO  AssertUtils:36 - [PASS] 'Back to Products' button is not displayed.
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-4] INFO  ProductDetailPage:106 - Product details verified successfully for: Sauce Labs Onesie
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-3] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:19 [TestNG-test-FirefoxTests-3] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:20 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:17:20 [TestNG-test-ChromeTests-2] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:17:20 [TestNG-test-ChromeTests-2] INFO  CartPage:80 - Navigating to Cart and clicking Checkout button...
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  BasePage:51 - Entered text '' into element: By.id: password
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] WARN  LoginPage:75 - Login error displayed: Epic sadface: Password is required
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Epic sadface: Password is required | Actual: Epic sadface: Password is required
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:20 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:20 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: checkout
+2025-11-18 17:17:20 [TestNG-test-ChromeTests-2] INFO  CartPage:83 - Clicked Checkout button successfully.
+2025-11-18 17:17:20 [TestNG-test-ChromeTests-2] INFO  CheckoutPage:25 - Entering personal information: John, Doe, 
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  LoginPage:61 - Attempting login with username: 
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  LoginPage:20 - Entering username: 
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  BasePage:51 - Entered text '' into element: By.id: user-name
+2025-11-18 17:17:20 [TestNG-test-FirefoxTests-3] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] INFO  BasePage:51 - Entered text '' into element: By.id: password
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:21 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'John' into element: By.id: first-name
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] INFO  LoginPage:65 - Login attempted for user: 
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] WARN  LoginPage:75 - Login error displayed: Epic sadface: Username is required
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Epic sadface: Username is required | Actual: Epic sadface: Username is required
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] INFO  BaseTest:42 - Ending Test Class: LoginTests
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-3] INFO  DriverManager:70 - Closing and quitting WebDriver instance...
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:21 [TestNG-test-FirefoxTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'Doe' into element: By.id: last-name
+2025-11-18 17:17:22 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:22 [TestNG-test-FirefoxTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text '' into element: By.id: postal-code
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: continue
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  CheckoutPage:30 - Clicked Continue button on Checkout Page successfully.
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] WARN  CheckoutPage:41 - Checkout error message displayed: Error: Postal Code is required
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  AssertUtils:16 - [PASS] Error message mismatch. | Expected: Error: Postal Code is required | Actual: Error: Postal Code is required
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:22 [TestNG-test-ChromeTests-2] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:22 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item_name ' and text()='Sauce Labs Backpack']
+2025-11-18 17:17:22 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:90 - Opened product details page for 'Sauce Labs Backpack'.
+2025-11-18 17:17:23 [TestNG-test-FirefoxTests-4] INFO  ProductDetailPage:135 - Clicking 'Back to Products' button
+2025-11-18 17:17:23 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:23 [TestNG-test-ChromeTests-2] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:23 [TestNG-test-FirefoxTests-4] INFO  BasePage:38 - Clicked on element: By.id: back-to-products
+2025-11-18 17:17:23 [TestNG-test-FirefoxTests-4] INFO  ProductsPage:31 - Products page title retrieved: Products
+2025-11-18 17:17:23 [TestNG-test-FirefoxTests-4] INFO  AssertUtils:16 - [PASS] Products page is not displayed. | Expected: Products | Actual: Products
+2025-11-18 17:17:23 [TestNG-test-FirefoxTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:23 [TestNG-test-FirefoxTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:23 [TestNG-test-FirefoxTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:23 [TestNG-test-FirefoxTests-4] INFO  BaseTest:42 - Ending Test Class: ProductTests
+2025-11-18 17:17:23 [TestNG-test-FirefoxTests-4] INFO  DriverManager:70 - Closing and quitting WebDriver instance...
+2025-11-18 17:17:23 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:23 [TestNG-test-ChromeTests-2] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:24 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Sauce Labs Bike Light']]//button[text()='Add to cart']
+2025-11-18 17:17:24 [TestNG-test-ChromeTests-2] INFO  ProductsPage:68 - Added product 'Sauce Labs Bike Light' to cart successfully.
+2025-11-18 17:17:24 [TestNG-test-ChromeTests-2] INFO  CartPage:80 - Navigating to Cart and clicking Checkout button...
+2025-11-18 17:17:24 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:24 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: checkout
+2025-11-18 17:17:24 [TestNG-test-ChromeTests-2] INFO  CartPage:83 - Clicked Checkout button successfully.
+2025-11-18 17:17:24 [TestNG-test-ChromeTests-2] INFO  CheckoutPage:55 - Clicking Cancel button on Checkout Page...
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: cancel
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  CheckoutPage:57 - Clicked Cancel button successfully.
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  CartPage:34 - Fetching Cart Page title...
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  CartPage:36 - Cart Page Title: Your Cart
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  AssertUtils:16 - [PASS] Page title mismatch. | Expected: Your Cart | Actual: Your Cart
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:25 [TestNG-test-ChromeTests-2] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:26 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:26 [TestNG-test-ChromeTests-2] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:26 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:26 [TestNG-test-ChromeTests-2] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:26 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item'][.//div[text()='Test.allTheThings() T-Shirt (Red)']]//button[text()='Add to cart']
+2025-11-18 17:17:26 [TestNG-test-ChromeTests-2] INFO  ProductsPage:68 - Added product 'Test.allTheThings() T-Shirt (Red)' to cart successfully.
+2025-11-18 17:17:26 [TestNG-test-ChromeTests-2] INFO  CartPage:80 - Navigating to Cart and clicking Checkout button...
+2025-11-18 17:17:26 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.xpath: //a[@data-test='shopping-cart-link']
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: checkout
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-2] INFO  CartPage:83 - Clicked Checkout button successfully.
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-2] INFO  CheckoutPage:25 - Entering personal information: Divya, Divine, 10453
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'Divya' into element: By.id: first-name
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] WARN  BasePage:90 - Element not displayed or not found: By.xpath: //span[@class='shopping_cart_badge']
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] INFO  ProductsPage:105 - Cart badge not displayed. Assuming count is 0.
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] INFO  AssertUtils:26 - [PASS] Cart count is not updated correctly after removing a product. | Expected: 0 | Actual: 0
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text 'Divine' into element: By.id: last-name
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-2] INFO  BasePage:51 - Entered text '10453' into element: By.id: postal-code
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: continue
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-2] INFO  CheckoutPage:30 - Clicked Continue button on Checkout Page successfully.
+2025-11-18 17:17:27 [TestNG-test-ChromeTests-2] INFO  CheckoutOverviewPage:33 - Clicking Finish button on Checkout Overview page...
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-2] INFO  BasePage:38 - Clicked on element: By.id: finish
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-2] INFO  CheckoutOverviewPage:35 - Clicked Finish button successfully.
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-2] INFO  ConfirmationPage:15 - Fetching order confirmation message...
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-2] INFO  ConfirmationPage:17 - Order confirmation message retrieved successfully: Thank you for your order!
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-2] INFO  AssertUtils:16 - [PASS] Order Confirmation Message not found. | Expected: Thank you for your order! | Actual: Thank you for your order!
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-2] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-2] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-2] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-2] INFO  BaseTest:42 - Ending Test Class: CheckoutTests
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-2] INFO  DriverManager:70 - Closing and quitting WebDriver instance...
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item_name ' and text()='Sauce Labs Onesie']
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  ProductsPage:90 - Opened product details page for 'Sauce Labs Onesie'.
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  ProductDetailPage:90 - Verifying product details for: Sauce Labs Onesie
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  ProductDetailPage:25 - Product name retrieved: Sauce Labs Onesie
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  ProductDetailPage:36 - Product description retrieved: Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  ProductDetailPage:47 - Product price retrieved: $7.99
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  AssertUtils:16 - [PASS] Product Name does not match | Expected: Sauce Labs Onesie | Actual: Sauce Labs Onesie
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  AssertUtils:36 - [PASS] Price format is invalid: $7.99
+2025-11-18 17:17:28 [TestNG-test-ChromeTests-4] INFO  ProductDetailPage:58 - 'Add to Cart' button visible: true
+2025-11-18 17:17:29 [TestNG-test-FirefoxTests-2] INFO  DriverManager:73 - WebDriver closed and removed successfully.
+2025-11-18 17:17:29 [TestNG-test-FirefoxTests-2] INFO  BaseTest:44 - ==============================================================
+2025-11-18 17:17:31 [TestNG-test-FirefoxTests-1] INFO  DriverManager:73 - WebDriver closed and removed successfully.
+2025-11-18 17:17:31 [TestNG-test-FirefoxTests-1] INFO  BaseTest:44 - ==============================================================
+2025-11-18 17:17:34 [TestNG-test-ChromeTests-1] INFO  DriverManager:73 - WebDriver closed and removed successfully.
+2025-11-18 17:17:34 [TestNG-test-ChromeTests-1] INFO  BaseTest:44 - ==============================================================
+2025-11-18 17:17:34 [TestNG-test-FirefoxTests-4] INFO  DriverManager:73 - WebDriver closed and removed successfully.
+2025-11-18 17:17:34 [TestNG-test-FirefoxTests-4] INFO  BaseTest:44 - ==============================================================
+2025-11-18 17:17:35 [TestNG-test-FirefoxTests-3] INFO  DriverManager:73 - WebDriver closed and removed successfully.
+2025-11-18 17:17:35 [TestNG-test-FirefoxTests-3] INFO  BaseTest:44 - ==============================================================
+2025-11-18 17:17:38 [TestNG-test-ChromeTests-4] WARN  BasePage:90 - Element not displayed or not found: By.xpath: //button[text()='Remove']
+2025-11-18 17:17:38 [TestNG-test-ChromeTests-4] INFO  ProductDetailPage:69 - 'Remove' button visible: false
+2025-11-18 17:17:38 [TestNG-test-ChromeTests-4] INFO  AssertUtils:36 - [PASS] Neither Add to Cart nor Remove button is displayed
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  ProductDetailPage:80 - 'Back to Products' button visible: true
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  AssertUtils:36 - [PASS] 'Back to Products' button is not displayed.
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  ProductDetailPage:106 - Product details verified successfully for: Sauce Labs Onesie
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BaseTest:30 - Navigating to application URL: https://www.saucedemo.com/
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  LoginPage:61 - Attempting login with username: standard_user
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  LoginPage:20 - Entering username: standard_user
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'standard_user' into element: By.id: user-name
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  LoginPage:30 - Entering password
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BasePage:51 - Entered text 'secret_sauce' into element: By.id: password
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  LoginPage:40 - Clicking on Login button...
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.id: login-button
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  LoginPage:65 - Login attempted for user: standard_user
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.xpath: //div[@class='inventory_item_name ' and text()='Sauce Labs Backpack']
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  ProductsPage:90 - Opened product details page for 'Sauce Labs Backpack'.
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  ProductDetailPage:135 - Clicking 'Back to Products' button
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BasePage:38 - Clicked on element: By.id: back-to-products
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  ProductsPage:31 - Products page title retrieved: Products
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  AssertUtils:16 - [PASS] Products page is not displayed. | Expected: Products | Actual: Products
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BaseTest:36 - Clearing cookies and local storage after test method...
+2025-11-18 17:17:39 [TestNG-test-ChromeTests-4] INFO  BasePage:98 - Clearing browser cookies, local storage, and session storage.
+2025-11-18 17:17:40 [TestNG-test-ChromeTests-4] INFO  BasePage:103 - Successfully cleared browser data.
+2025-11-18 17:17:40 [TestNG-test-ChromeTests-4] INFO  BaseTest:42 - Ending Test Class: ProductTests
+2025-11-18 17:17:40 [TestNG-test-ChromeTests-4] INFO  DriverManager:70 - Closing and quitting WebDriver instance...
+2025-11-18 17:17:42 [TestNG-test-ChromeTests-3] INFO  DriverManager:73 - WebDriver closed and removed successfully.
+2025-11-18 17:17:42 [TestNG-test-ChromeTests-3] INFO  BaseTest:44 - ==============================================================
+2025-11-18 17:17:42 [TestNG-test-ChromeTests-4] INFO  DriverManager:73 - WebDriver closed and removed successfully.
+2025-11-18 17:17:42 [TestNG-test-ChromeTests-4] INFO  BaseTest:44 - ==============================================================
+2025-11-18 17:17:43 [TestNG-test-ChromeTests-2] INFO  DriverManager:73 - WebDriver closed and removed successfully.
+2025-11-18 17:17:43 [TestNG-test-ChromeTests-2] INFO  BaseTest:44 - ==============================================================
