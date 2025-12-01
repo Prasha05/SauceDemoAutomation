@@ -7,71 +7,15 @@
   <test thread-count="2" parallel="classes" name="FirefoxTests(failed)">
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.saucedemo.tests.CartTests">
+      <class name="com.saucedemo.tests.LogoutTest">
         <methods>
-          <include name="getAppUrl"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-          <include name="removeItemFromCartPage"/>
-          <include name="clearCookies"/>
-        </methods>
-      </class> <!-- com.saucedemo.tests.CartTests -->
-      <class name="com.saucedemo.tests.ProductTests">
-        <methods>
+          <include name="verifyLogout"/>
           <include name="setUp"/>
           <include name="getAppUrl"/>
           <include name="tearDown"/>
-          <include name="addMultipleProductToCart"/>
-          <include name="removeProductFromCart"/>
           <include name="clearCookies"/>
         </methods>
-      </class> <!-- com.saucedemo.tests.ProductTests -->
-      <class name="com.saucedemo.tests.CheckoutTests">
-        <methods>
-          <include name="setUp"/>
-          <include name="getAppUrl"/>
-          <include name="verifyCancelCheckoutFromInfoPage"/>
-          <include name="verifyCheckoutWithMissingFirstname"/>
-          <include name="verifyCheckoutWithMissingZipcode"/>
-          <include name="tearDown"/>
-          <include name="clearCookies"/>
-        </methods>
-      </class> <!-- com.saucedemo.tests.CheckoutTests -->
+      </class> <!-- com.saucedemo.tests.LogoutTest -->
     </classes>
   </test> <!-- FirefoxTests(failed) -->
-  <test thread-count="2" parallel="classes" name="ChromeTests(failed)">
-    <parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="com.saucedemo.tests.CartTests">
-        <methods>
-          <include name="setUp"/>
-          <include name="getAppUrl"/>
-          <include name="removeItemFromCartPage"/>
-          <include name="tearDown"/>
-          <include name="clearCookies"/>
-        </methods>
-      </class> <!-- com.saucedemo.tests.CartTests -->
-      <class name="com.saucedemo.tests.ProductTests">
-        <methods>
-          <include name="getAppUrl"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-          <include name="addMultipleProductToCart"/>
-          <include name="removeProductFromCart"/>
-          <include name="clearCookies"/>
-        </methods>
-      </class> <!-- com.saucedemo.tests.ProductTests -->
-      <class name="com.saucedemo.tests.CheckoutTests">
-        <methods>
-          <include name="setUp"/>
-          <include name="getAppUrl"/>
-          <include name="verifyCancelCheckoutFromInfoPage"/>
-          <include name="verifyCheckoutWithMissingFirstname"/>
-          <include name="verifyCheckoutWithMissingZipcode"/>
-          <include name="tearDown"/>
-          <include name="clearCookies"/>
-        </methods>
-      </class> <!-- com.saucedemo.tests.CheckoutTests -->
-    </classes>
-  </test> <!-- ChromeTests(failed) -->
 </suite> <!-- Failed suite [SauceDemo Suite] -->
