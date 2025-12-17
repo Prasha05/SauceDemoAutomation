@@ -1,9 +1,17 @@
-# Ignore compiled files and test output
-*.class
+# Maven
 target/
+.mvn/
+
+# TestNG / Reports
 test-output/
 *.log
+*.html
 
-# Ignore IDE-specific files
-.idea/
-*.iml
+# IDE - Eclipse
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
